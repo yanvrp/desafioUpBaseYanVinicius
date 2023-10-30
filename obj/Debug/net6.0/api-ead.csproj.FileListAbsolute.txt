@@ -1,0 +1,98 @@
+D:\API Yan\api-ead\obj\Debug\net6.0\api-ead.GeneratedMSBuildEditorConfig.editorconfig
+D:\API Yan\api-ead\obj\Debug\net6.0\api-ead.AssemblyInfoInputs.cache
+D:\API Yan\api-ead\obj\Debug\net6.0\api-ead.AssemblyInfo.cs
+D:\API Yan\api-ead\obj\Debug\net6.0\api-ead.csproj.CoreCompileInputs.cache
+D:\API Yan\api-ead\obj\Debug\net6.0\api-ead.MvcApplicationPartsAssemblyInfo.cache
+D:\API Yan\api-ead\bin\Debug\net6.0\appsettings.Development.json
+D:\API Yan\api-ead\bin\Debug\net6.0\appsettings.json
+D:\API Yan\api-ead\bin\Debug\net6.0\api-ead.exe
+D:\API Yan\api-ead\bin\Debug\net6.0\api-ead.deps.json
+D:\API Yan\api-ead\bin\Debug\net6.0\api-ead.runtimeconfig.json
+D:\API Yan\api-ead\bin\Debug\net6.0\api-ead.dll
+D:\API Yan\api-ead\bin\Debug\net6.0\api-ead.pdb
+D:\API Yan\api-ead\bin\Debug\net6.0\Humanizer.dll
+D:\API Yan\api-ead\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\API Yan\api-ead\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\API Yan\api-ead\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\API Yan\api-ead\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\API Yan\api-ead\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\API Yan\api-ead\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\API Yan\api-ead\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\API Yan\api-ead\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\API Yan\api-ead\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\API Yan\api-ead\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\API Yan\api-ead\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\API Yan\api-ead\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\API Yan\api-ead\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\API Yan\api-ead\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\API Yan\api-ead\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\API Yan\api-ead\bin\Debug\net6.0\MySqlConnector.dll
+D:\API Yan\api-ead\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\API Yan\api-ead\bin\Debug\net6.0\System.CodeDom.dll
+D:\API Yan\api-ead\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\API Yan\api-ead\bin\Debug\net6.0\System.Text.Json.dll
+D:\API Yan\api-ead\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\API Yan\api-ead\obj\Debug\net6.0\api-ead.csproj.AssemblyReference.cache
+D:\API Yan\api-ead\obj\Debug\net6.0\staticwebassets\msbuild.api-ead.Microsoft.AspNetCore.StaticWebAssets.props
+D:\API Yan\api-ead\obj\Debug\net6.0\staticwebassets\msbuild.build.api-ead.props
+D:\API Yan\api-ead\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.api-ead.props
+D:\API Yan\api-ead\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.api-ead.props
+D:\API Yan\api-ead\obj\Debug\net6.0\staticwebassets.pack.json
+D:\API Yan\api-ead\obj\Debug\net6.0\staticwebassets.build.json
+D:\API Yan\api-ead\obj\Debug\net6.0\staticwebassets.development.json
+D:\API Yan\api-ead\obj\Debug\net6.0\scopedcss\bundle\api-ead.styles.css
+D:\API Yan\api-ead\obj\Debug\net6.0\api-ead.csproj.CopyComplete
+D:\API Yan\api-ead\obj\Debug\net6.0\api-ead.dll
+D:\API Yan\api-ead\obj\Debug\net6.0\refint\api-ead.dll
+D:\API Yan\api-ead\obj\Debug\net6.0\api-ead.pdb
+D:\API Yan\api-ead\obj\Debug\net6.0\api-ead.genruntimeconfig.cache
+D:\API Yan\api-ead\obj\Debug\net6.0\ref\api-ead.dll
+C:\Users\yanvr\Desktop\api-ead\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\yanvr\Desktop\api-ead\bin\Debug\net6.0\appsettings.json
+C:\Users\yanvr\Desktop\api-ead\bin\Debug\net6.0\api-ead.exe
+C:\Users\yanvr\Desktop\api-ead\bin\Debug\net6.0\api-ead.deps.json
+C:\Users\yanvr\Desktop\api-ead\bin\Debug\net6.0\api-ead.runtimeconfig.json
+C:\Users\yanvr\Desktop\api-ead\bin\Debug\net6.0\api-ead.dll
+C:\Users\yanvr\Desktop\api-ead\bin\Debug\net6.0\api-ead.pdb
+C:\Users\yanvr\Desktop\api-ead\bin\Debug\net6.0\Humanizer.dll
+C:\Users\yanvr\Desktop\api-ead\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yanvr\Desktop\api-ead\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yanvr\Desktop\api-ead\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yanvr\Desktop\api-ead\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yanvr\Desktop\api-ead\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\yanvr\Desktop\api-ead\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yanvr\Desktop\api-ead\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yanvr\Desktop\api-ead\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yanvr\Desktop\api-ead\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yanvr\Desktop\api-ead\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\yanvr\Desktop\api-ead\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\yanvr\Desktop\api-ead\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yanvr\Desktop\api-ead\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\yanvr\Desktop\api-ead\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\yanvr\Desktop\api-ead\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\yanvr\Desktop\api-ead\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\yanvr\Desktop\api-ead\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\yanvr\Desktop\api-ead\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\yanvr\Desktop\api-ead\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\yanvr\Desktop\api-ead\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\yanvr\Desktop\api-ead\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\yanvr\Desktop\api-ead\obj\Debug\net6.0\api-ead.csproj.AssemblyReference.cache
+C:\Users\yanvr\Desktop\api-ead\obj\Debug\net6.0\api-ead.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanvr\Desktop\api-ead\obj\Debug\net6.0\api-ead.AssemblyInfoInputs.cache
+C:\Users\yanvr\Desktop\api-ead\obj\Debug\net6.0\api-ead.AssemblyInfo.cs
+C:\Users\yanvr\Desktop\api-ead\obj\Debug\net6.0\api-ead.csproj.CoreCompileInputs.cache
+C:\Users\yanvr\Desktop\api-ead\obj\Debug\net6.0\api-ead.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yanvr\Desktop\api-ead\obj\Debug\net6.0\staticwebassets\msbuild.api-ead.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yanvr\Desktop\api-ead\obj\Debug\net6.0\staticwebassets\msbuild.build.api-ead.props
+C:\Users\yanvr\Desktop\api-ead\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.api-ead.props
+C:\Users\yanvr\Desktop\api-ead\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.api-ead.props
+C:\Users\yanvr\Desktop\api-ead\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\yanvr\Desktop\api-ead\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\yanvr\Desktop\api-ead\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\yanvr\Desktop\api-ead\obj\Debug\net6.0\scopedcss\bundle\api-ead.styles.css
+C:\Users\yanvr\Desktop\api-ead\obj\Debug\net6.0\api-ead.csproj.CopyComplete
+C:\Users\yanvr\Desktop\api-ead\obj\Debug\net6.0\api-ead.dll
+C:\Users\yanvr\Desktop\api-ead\obj\Debug\net6.0\refint\api-ead.dll
+C:\Users\yanvr\Desktop\api-ead\obj\Debug\net6.0\api-ead.pdb
+C:\Users\yanvr\Desktop\api-ead\obj\Debug\net6.0\api-ead.genruntimeconfig.cache
+C:\Users\yanvr\Desktop\api-ead\obj\Debug\net6.0\ref\api-ead.dll

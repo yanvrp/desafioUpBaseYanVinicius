@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "65mNlOsCndVdtV7/mBsfZmSjc0RAFlIzM7295Dks61c=",
+  "Source": "api-ead",
+  "BasePath": "_content/api-ead",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
